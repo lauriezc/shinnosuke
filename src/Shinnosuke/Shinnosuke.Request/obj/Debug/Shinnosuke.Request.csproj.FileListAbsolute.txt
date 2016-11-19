@@ -1,5 +1,0 @@
-\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Request\bin\Debug\Shinnosuke.Request.dll
-\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Request\bin\Debug\Shinnosuke.Request.pdb
-\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Request\obj\Debug\Shinnosuke.Request.csprojResolveAssemblyReference.cache
-\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Request\obj\Debug\Shinnosuke.Request.dll
-\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Request\obj\Debug\Shinnosuke.Request.pdb
