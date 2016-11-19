@@ -1,9 +1,9 @@
-bin/*
+bin/
 
-obj/*
+obj/
 
-debug/*
+debug/
 
-packages/*
+packages/
 
 *.suo
