@@ -1,0 +1,5 @@
+\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Spider\bin\Debug\Shinnosuke.Spider.dll
+\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Spider\bin\Debug\Shinnosuke.Spider.pdb
+\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Spider\obj\Debug\Shinnosuke.Spider.csprojResolveAssemblyReference.cache
+\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Spider\obj\Debug\Shinnosuke.Spider.dll
+\\Mac\Home\WorkSpace\github\shinnosuke\src\Shinnosuke\Shinnosuke.Spider\obj\Debug\Shinnosuke.Spider.pdb
