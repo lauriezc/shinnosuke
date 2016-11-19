@@ -1,11 +1,7 @@
-src/Shinnosuke/Shinnosuke.Request/bin/*
-src/Shinnosuke/Shinnosuke.Request/obj/*
-src/Shinnosuke/Shinnosuke.Request/debug/*
-src/Shinnosuke/Shinnosuke.Spider/bin/*
-src/Shinnosuke/Shinnosuke.Spider/obj/*
-src/Shinnosuke/Shinnosuke.Spider/debug/*
-src/Shinnosuke/Shinnosuke.SpiderTests/bin/*
-src/Shinnosuke/Shinnosuke.SpiderTests/obj/*
-src/Shinnosuke/Shinnosuke.SpiderTests/debug/*
+bin/*
 
-/packages/*
+obj/*
+
+debug/*
+
+packages/*
